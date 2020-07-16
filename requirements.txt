@@ -1,4 +1,4 @@
 Pillow==6.2.2
 numpy
-tensorflow==2.1.0
-opencv-python==4.2.0.32
+scikit-learn==0.23.1
+scikit-image==0.17.2
